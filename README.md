@@ -6,3 +6,8 @@
 | 5025251228 | Raden Roro Fabronita Sectia Farela                    |
 
 # Laporan Praktikum Komputasi Numerik - 2
+
+
+
+
+## 3. Implementasi Kode
