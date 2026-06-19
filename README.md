@@ -1,4 +1,4 @@
-# Praktimun-2-Komnum
+# Praktikumn-2-Komnum
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
