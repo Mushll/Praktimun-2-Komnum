@@ -39,8 +39,24 @@ KARZEL
 3. <img width="982" height="727" alt="image" src="https://github.com/user-attachments/assets/020948cf-4232-4957-88ed-d436543491fb" />
 
 ## Bagian C
+##TOPOLOGI
+<img width="613" height="493" alt="image" src="https://github.com/user-attachments/assets/7ae2a633-b376-4d4d-aa5c-14188c8db00a" />
 
 
+#c.1
+
+1 SARGON & FIREFOX
+<img width="820" height="1008" alt="image" src="https://github.com/user-attachments/assets/2a59d283-3a15-4d56-9d54-c41486822d93" />
+<img width="986" height="697" alt="image" src="https://github.com/user-attachments/assets/7a624457-c3ad-4ed2-97ed-b9d4cc61cab3" />
+
+PY.OGNISCO
+<img width="982" height="702" alt="image" src="https://github.com/user-attachments/assets/9810a4c9-4a75-46d5-a191-574db048b18e" />
+
+#WEB 2
+SARGOON
+<img width="1597" height="1017" alt="image" src="https://github.com/user-attachments/assets/df92ab8d-70a2-4941-b909-c7388d464088" />
+OGNISKO
+<img width="1237" height="936" alt="image" src="https://github.com/user-attachments/assets/0a2fe578-a75f-48df-9dfc-81ed2f91528e" />
 
 
 
